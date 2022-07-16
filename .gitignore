@@ -1,5 +1,6 @@
 # Distributable
 dist
+public
 
 # Parcel Dev Artifacts
 .parcel-cache
