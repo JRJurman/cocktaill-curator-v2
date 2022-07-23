@@ -3,9 +3,8 @@
 
 .app {
   display: grid;
-  place-content: center;
-  align-items: center;
-  justify-items: center;
+  place-content: stretch;
+  place-items: stretch;
   min-height: 100vh;
 }
 
