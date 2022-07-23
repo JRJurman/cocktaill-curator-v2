@@ -26,10 +26,12 @@
 
 .shuffle {
 	grid-area: shuffle;
+	margin: 0.5em;
 }
 
 .search {
 	grid-area: search;
+	margin: 0.5em;
 }
 
 .content {
